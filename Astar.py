@@ -66,7 +66,7 @@ start_box.start=True
 start_box.visited=True
 queue.append(start_box)
 
-def main():
+def mains():
     begin_search=False
     target_box_set=False
     searching=True
@@ -142,4 +142,4 @@ def main():
         pygame.display.flip()
         clock.tick(60)
 
-main()
+mains()
