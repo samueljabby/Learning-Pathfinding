@@ -1,2 +1,2 @@
 # Learning-Pathfinding
-followinh a tutorial by clear code to understand how A* works
+following  tutorial by clear code to understand how A* works by using Pathfinding module
